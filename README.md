@@ -1,11 +1,11 @@
-<h1>¡Hola!, soy Mauricio De Benedetto 👋 </h1>
-<h2>Full Stack Developer 🚀</h2>
+<h1>¡Hola! Soy Mauricio De Benedetto</h1>
+<h2>Full Stack Developer 💻</h2>
 
-Soy un desarrollador especializado en la creación y mantenimiento de aplicaciones web utilizando Blazor, así como aplicaciones de escritorio utilizando Windows Forms. Mi enfoque técnico se centra en la implementación de servicios y APIs para el backend, utilizando C# como lenguaje principal. Para la interfaz de usuario estoy utilizando MudBlazor, siguiendo los diseños de Figma.
+👋 Soy un desarrollador especializado en la creación y mantenimiento de aplicaciones web utilizando Blazor, así como aplicaciones de escritorio utilizando Windows Forms. Mi enfoque técnico se centra en la implementación de servicios y APIs para el backend, utilizando C# como lenguaje principal. Para la interfaz de usuario estoy utilizando MudBlazor, siguiendo los diseños de Figma.
 
-En mi trayectoria profesional, acumulé experiencia en el desarrollo ágil de aplicaciones. Mi principal habilidad radica en ser una persona responsable y proactiva, comprometida en cumplir los objetivos de cada proyecto.
+💼 En mi trayectoria profesional, acumulé experiencia en el desarrollo ágil de aplicaciones. Mi principal habilidad radica en ser una persona responsable y proactiva, comprometida en cumplir los objetivos de cada proyecto.
 
-Mi motivación es seguir creciendo en el desarrollo, utilizando las últimas tecnologías disponibles. Actualmente me encuentro estudiando React.
+🚀 Mi motivación es seguir creciendo en el desarrollo, utilizando las últimas tecnologías disponibles. Actualmente me encuentro estudiando React.
 
 ### Tecnologías
   ![Blazor](https://img.shields.io/badge/-Blazor-333333?style=flat&logo=blazor)
