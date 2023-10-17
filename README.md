@@ -5,7 +5,7 @@
 
 💼 En mi trayectoria profesional, acumulé experiencia en el desarrollo ágil de aplicaciones. Mi principal habilidad radica en ser una persona responsable y proactiva, comprometida en cumplir los objetivos de cada proyecto.
 
-🚀 Mi motivación es seguir creciendo en el desarrollo, utilizando las últimas tecnologías disponibles. Actualmente me encuentro estudiando React.
+🚀 Mi motivación es seguir creciendo en el desarrollo, utilizando las últimas tecnologías disponibles. Actualmente me encuentro desarrollando en React.
 
 ### Tecnologías
   ![Blazor](https://img.shields.io/badge/-Blazor-333333?style=flat&logo=blazor)
